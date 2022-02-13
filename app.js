@@ -1,4 +1,4 @@
-/*jshint esversion: 6 */
+
 function concatinate(prefix) {
     return function (fix) {
         return prefix+fix;
